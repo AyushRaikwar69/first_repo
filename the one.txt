@@ -1,1 +1,8 @@
 this is a line of code 
+
+
+  
+1 pytourch
+2 LLM large level 
+3 cnn 
+4 computer vision 
